@@ -1,8 +1,8 @@
 # Site
 title:              Advait Pote
 bio:                'Welcome to my Blog! Get to know me!'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
-reading_time:       true
+description:        "An Undergraduate in Mechanical Engineering, IIT Bombay."
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/logo_blogg.jpeg'
 background:         'assets/img/placeholder-big.jpg'
@@ -42,7 +42,7 @@ email:              apote2050@gmail.com
 facebook:           Advait.Pote.7
 github-url:         AdvaitPote
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           advait-pote-243020214
 #xing:              username
 instagram:          advait_pote
 #lastfm:            username
