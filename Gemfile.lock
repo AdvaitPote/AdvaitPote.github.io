@@ -33,7 +33,8 @@ GEM
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
-    ffi (1.15.5)
+    ffi (1.17.0)
+    ffi (1.17.0-x86_64-darwin)
     forwardable-extended (2.6.0)
     html-pipeline (2.14.1)
       activesupport (>= 2)
@@ -68,9 +69,11 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    mini_portile2 (2.8.7)
     minitest (5.15.0)
     multipart-post (2.1.1)
-    nokogiri (1.13.6-arm64-darwin)
+    nokogiri (1.13.6)
+      mini_portile2 (~> 2.8.0)
       racc (~> 1.4)
     nokogiri (1.13.6-x86_64-darwin)
       racc (~> 1.4)
@@ -83,6 +86,7 @@ GEM
     rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+    rexml (3.3.8)
     rouge (1.11.1)
     ruby2_keywords (0.0.5)
     safe_yaml (1.0.5)
@@ -96,10 +100,13 @@ GEM
       faraday (> 0.8, < 2.0)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
+    webrick (1.8.2)
     zeitwerk (2.5.4)
 
 PLATFORMS
+  ruby
   universal-darwin-21
+  universal-darwin-23
 
 DEPENDENCIES
   jekyll (~> 3.2.1)
@@ -107,6 +114,8 @@ DEPENDENCIES
   jekyll-gist
   jekyll-mentions
   jekyll-sitemap
+  rexml (~> 3.3)
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.3.14

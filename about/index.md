@@ -8,11 +8,11 @@ comments: false
     
 <img src="{{site.baseurl}}/assets/img/profile.jpeg" style="width:200px"/>
 
-- My name is Advait Pote and I am an avid open source enthusiast currently residing in Gandhinagar, India. 
+- My name is Advait Pote and I am an avid open source enthusiast currently residing in Pune, India. 
 
-- I am currently studying Mechanical Engineering from the Indian Institute of Technology (IIT) Bombay. I am also pursuing a Minor degree in Computer Science and Engineering. 
+- I am a recent Mechanical Engineering graduate from the Indian Institute of Technology (IIT) Bombay with a Minor in Computer Science and Engineering. 
 
-- I have been gaining a lot of interest in the huge domain of Competitve Programming. Being someone who has always had a big interest in Problem Solving and someone who loves to whack their brains when faced by an involved problem, I am very eager to participate in more and more competitions. I have also recently been selected in Google Summer of Code 2022 with SymPy for which I am also extremely excited too. 
+- As someone who thrives in dynamic and evolving fields, I am continually expanding my knowledge in blockchain technology, decentralized finance (DeFi), and the future of cryptocurrencies. 
 
 - My hobbies include playing the Guitar, watching Sports and learning new languages. I have been playing the Guitar for more than two years and I hope I can keep getting better and uplift my skills.
 
